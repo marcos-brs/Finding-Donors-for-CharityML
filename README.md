@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Esse repositório possui um algoritmo de aprendizado supervisionado com o objetivo de reduzir o número de cartões que são enviadas pedindo doação para caridade
+> Esse repositório possui um algoritmo de aprendizado supervisionado com o objetivo de reduzir o número de cartões que são enviados pedindo doação para caridade
 
 ## Dependências
 
