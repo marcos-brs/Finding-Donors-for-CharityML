@@ -8,7 +8,7 @@
 
 > Esse repositório possui um algoritmo de aprendizado supervisionado com o objetivo de reduzir o número de cartões que são enviadas pedindo doação para caridade
 
-## Requerimentos
+## Dependências
 
 - [x] [Python3](https://www.python.org/downloads/) (recomendamos usar o [Anaconda](https://www.anaconda.com/))
 - [x] [Jupyter Notebook](https://jupyter.org/)
@@ -34,7 +34,7 @@ Dentro do do Notebook estará todas as instruções de uso.
 
 ## Dados
 
-O dataset contém aproximadamente 32000 amostras, onde cada um possui 13 features. Esse dataset é uma versão modificada da publicada no artigo _"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid"_ por Ron Kohavi. Você pode encontrar esse artigo [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), com o dataset original hospedado na [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
+O dataset contém aproximadamente 32000 amostras, onde cada uma possui 13 features. Esse dataset é uma versão modificada da publicada no artigo _"Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid"_ por Ron Kohavi. Você pode encontrar esse artigo [online](https://www.aaai.org/Papers/KDD/1996/KDD96-033.pdf), com o dataset original hospedado na [UCI](https://archive.ics.uci.edu/ml/datasets/Census+Income).
 
 **Features**
 
